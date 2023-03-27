@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Omaima OUAHLINE</h1>
 
 ![](https://komarev.com/ghpvc/?username=ouahlineomaima&color=blueviolet)
 
@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api/?username=ouahlineomaima&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouahlineomaima&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/ouahlineomaima/github-readme-stats)
+
