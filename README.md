@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Omaima OUAHLINE, a self-thaught developer passionate </h1>
+<h1 align="center">Hi 👋, I'm Omaima OUAHLINE</h1>
+
+<h3 align="center"> I'm a self-thaught developer that loves challenges </h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Mobile+developper;Competitive+Programmer%20&center=true&width=500&height=50"></a>
 </p>
