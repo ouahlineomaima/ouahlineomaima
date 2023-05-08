@@ -2,7 +2,7 @@
 
 <h3 align="center"> I'm a self-thaught developer that loves challenges </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Mobile+developper;Competitive+Programmer%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Mobile+Developper;Competitive+Programming+Passionate%20&center=true&width=500&height=50"></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=ouahlineomaima&color=blueviolet)
