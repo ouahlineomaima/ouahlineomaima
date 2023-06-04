@@ -50,7 +50,7 @@ Here are some ideas to get you started:
  
 <h4>Tools </h4>
  
- <img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud" alt="google cloud"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=000000&logo=Microsoft+Azure&logoColor=0078D4&label=" al='microsoft azure'/> <img src="https://img.shields.io/badge/firebase-000.svg?style=for-the-badge&logo=firebase"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=000000&logo=Docker&logoColor=2496ED&label=" alt='docker'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=000000&logo=Kubernetes&logoColor=326CE5&label=" alt="kubernetes"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=000000&logo=GitLab&logoColor=FC6D26&label=" alt="gitlab"/>
+ <img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud" alt="google cloud"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=000000&logo=Microsoft+Azure&logoColor=0078D4&label=" al='microsoft azure'/> <img src="https://img.shields.io/badge/firebase-000.svg?style=for-the-badge&logo=firebase"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=000000&logo=Docker&logoColor=2496ED&label=" alt='docker'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=000000&logo=Kubernetes&logoColor=326CE5&label=" alt="kubernetes"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=000000&logo=GitLab&logoColor=FC6D26&label=" alt="gitlab"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=" alt="vercel"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=000000&logo=Render&logoColor=46E3B7&label=" alt="render"/>
  
  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=000000&logo=Figma&logoColor=F24E1E&label=" alt="figma"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+XD&color=000000&logo=Adobe+XD&logoColor=FF61F6&label=" alt="adobe xd"/> <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Canva&color=000000&logo=Canva&logoColor=00C4CC&label=' alt='canva'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=000000&logo=Postman&logoColor=FF6C37&label=" alt="postman"/>
  
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
   
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ouahlineomaima&theme=algolia" alt="ouahbi13" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ouahlineomaima&theme=algolia"/></p>
 <br>
 
 <p align="center">
