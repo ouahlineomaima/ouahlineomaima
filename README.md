@@ -46,7 +46,11 @@ Here are some ideas to get you started:
 
  
 
- <img src="https://img.shields.io/badge/Node.js-000.svg?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/Django-000.svg?style=for-the-badge&logo=django&logoColor=29a071"/> <img src="https://img.shields.io/badge/flask-000.svg?style=for-the-badge&amp;logo=flask" alt="Flask"> <img src="https://img.shields.io/badge/Spring-000.svg?style=for-the-badge&logo=spring"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=000000&logo=Selenium&logoColor=43B02A&label=" alt='selenium'/> <img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=mysql"/> <img src="https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb"/> 
+ <img src="https://img.shields.io/badge/Node.js-000.svg?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/Django-000.svg?style=for-the-badge&logo=django&logoColor=29a071"/> <img src="https://img.shields.io/badge/flask-000.svg?style=for-the-badge&amp;logo=flask" alt="Flask"> <img src="https://img.shields.io/badge/Spring-000.svg?style=for-the-badge&logo=spring"/>
+ 
+ <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=000000&logo=Selenium&logoColor=43B02A&label=" alt='selenium'/>
+ 
+ <img src="https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=mysql"/>
  
 <h4>Tools </h4>
  
