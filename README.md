@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💁‍♀️:  About me
-- :school: I am a `second year` `Advanced Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
+- :school: I am a `third year` `Advanced Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
 - :technologist: I'm passionate about web and mobile developement.
 - :computer: I'm currently into Competitive Programming.
 - :thinking: I’m open for: `An Internship` or a `Freelance Project`.
