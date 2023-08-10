@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Languages and Tools</h2>
 
-  <h4>Languages</h4>
+  <h4>Programming Languages</h4>
 
 <img alt="Python" src="https://img.shields.io/badge/Python-000.svg?logo=python&style=for-the-badge"/> <img src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=java&logoColor=ed8b00"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=000000&logo=JavaScript&logoColor=F7DF1E&label=" alt='javascript'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=000000&logo=TypeScript&logoColor=3178C6&label=" alt='typescript'/> 
 
