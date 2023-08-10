@@ -56,7 +56,7 @@ Here are some ideas to get you started:
  
  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=000000&logo=Docker&logoColor=2496ED&label=" alt='docker'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=000000&logo=Kubernetes&logoColor=326CE5&label=" alt="kubernetes"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=000000&logo=GitLab&logoColor=FC6D26&label=" alt="gitlab"/>
  
- <img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud" alt="google cloud"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=000000&logo=Microsoft+Azure&logoColor=0078D4&label=" al='microsoft azure'/> <img src="https://img.shields.io/badge/firebase-000.svg?style=for-the-badge&logo=firebase"/> 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=000000&logo=Amazon+AWS&logoColor=F24E1E&label=" alt="AWS"/> <img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud" alt="google cloud"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=000000&logo=Microsoft+Azure&logoColor=0078D4&label=" al='microsoft azure'/> <img src="https://img.shields.io/badge/firebase-000.svg?style=for-the-badge&logo=firebase"/> 
  
  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=" alt="vercel"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=000000&logo=Render&logoColor=46E3B7&label=" alt="render"/>
  
