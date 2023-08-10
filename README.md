@@ -64,6 +64,10 @@ Here are some ideas to get you started:
  
  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=000000&logo=Git&logoColor=F05032&label=" alt='git'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=000000&logo=GitHub&logoColor=181717&label=" alt="github"/>
 
+ <h4>Competitive Programming </h4>
+
+ <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=000000&logo=LeetCode&logoColor=FFA116&label=" alt="leetcode"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codeforces&color=000000&logo=Codeforces&logoColor=1F8ACB&label=" alt="codeforces"/>
+
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouahlineomaima&layout=compact&theme=algolia" alt="ouahbi13" /></a> </p>
