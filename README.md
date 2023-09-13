@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
  <h4>Competitive Programming </h4>
 
- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=000000&logo=LeetCode&logoColor=FFA116&label=" alt="leetcode"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codeforces&color=000000&logo=Codeforces&logoColor=1F8ACB&label=" alt="codeforces"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=000000&logo=HackerRank&logoColor=00EA64&label=" alt="codeforces"/>
+<a href="https://leetcode.com/omaimaouahline/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=000000&logo=LeetCode&logoColor=FFA116&label=" alt="leetcode"/></a> <a href="https://codeforces.com/profile/omaimaouahline"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Codeforces&color=000000&logo=Codeforces&logoColor=1F8ACB&label=" alt="codeforces"/> </a> <a href="https://www.hackerrank.com/ouahline_omaima"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=HackerRank&color=000000&logo=HackerRank&logoColor=00EA64&label=" alt="hackerrank"/></a>  
 
 ## :trophy: Git profile Trophies
 
