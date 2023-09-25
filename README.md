@@ -57,6 +57,8 @@ Here are some ideas to get you started:
  
  <img src="https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=mysql"/>
  
+ <img src="https://img.shields.io/badge/rest-000.svg?style=for-the-badge&logo=rest&logoColor=ed8b00" alt="REST"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=000000&logo=GraphQL&logoColor=E10098&label=" alt='GraphQL'/>
+ 
 <h4>Tools </h4>
  
  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=000000&logo=Docker&logoColor=2496ED&label=" alt='docker'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=000000&logo=Kubernetes&logoColor=326CE5&label=" alt="kubernetes"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=000000&logo=GitLab&logoColor=FC6D26&label=" alt="gitlab"/>
