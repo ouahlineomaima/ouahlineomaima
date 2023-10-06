@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 -->
 ## 💁‍♀️:  About me
 - :school: I am a `third year` `Advanced Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
-- :technologist: I'm passionate about web and mobile developement.
+- :technologist: I'm passionate about web development and data engineering.
 - :computer: I'm currently into Competitive Programming.
 - :thinking: I’m open for: `An Internship` or a `Freelance Project`.
-- :nerd_face: Learning new things everyday.
+- :nerd_face: Learning new things every day.
 - 📫 How to reach me:
   <p align="center"><a href="www.linkedin.com/in/omaima-ouahline-2ba265223"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=000000&logo=LinkedIn&logoColor=0A66C2&label=" alt="linkedin" /></a> <a href="mailto:omaimaouahline01@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Gmail&logoColor=EA4335&label=" alt="gmail" /></a> <a href="mailto:ouahline.omaima@ine.inpt.ma"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=INEmail&color=000000&logo=Gmail&logoColor=EA4335&label=" alt="gmail" /></a></p>
 
