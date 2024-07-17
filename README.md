@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💁‍♀️:  About me
-- :school: I am a `third year` `Advanced Software Engineering Student` at the National Institute of Posts and Telecommunications (INPT), Morocco.
-- :technologist: I'm passionate about web development and data engineering.
+- :school: I am a `Software engineer` laureate of the National Institute of Posts and Telecommunications (INPT), Morocco.
+- :technologist: I'm passionate about web development and software engineering.
 - :computer: I'm currently into Competitive Programming.
-- :thinking: I’m open for: `An Internship` or a `Freelance Project`.
+- :thinking: I’m open for: `A Job opportunity` or a `Freelance Project`.
 - :nerd_face: Learning new things every day.
 - 📫 How to reach me:
-  <p align="center"><a href="www.linkedin.com/in/omaima-ouahline-2ba265223"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=000000&logo=LinkedIn&logoColor=0A66C2&label=" alt="linkedin" /></a> <a href="mailto:omaimaouahline01@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Gmail&logoColor=EA4335&label=" alt="gmail" /></a> <a href="mailto:ouahline.omaima@ine.inpt.ma"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=INEmail&color=000000&logo=Gmail&logoColor=EA4335&label=" alt="gmail" /></a></p>
+  <p align="center"><a href="www.linkedin.com/in/omaima-ouahline-2ba265223"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=000000&logo=LinkedIn&logoColor=0A66C2&label=" alt="linkedin" /></a> <a href="mailto:omaimaouahline01@gmail.com"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=000000&logo=Gmail&logoColor=EA4335&label=" alt="gmail" /></a></p>
 
 
 <br>
@@ -45,19 +45,19 @@ Here are some ideas to get you started:
 
 <h4>Software Development </h4>
 
- <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=E34F26&label=" alt='html'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=000000&logo=CSS3&logoColor=1572B6&label=" alt='css'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=000000&logo=Bootstrap&logoColor=7952B3&label=" alt='bootstrap'/> <img src="https://img.shields.io/badge/Tailwind_CSS-000.svg?style=for-the-badge&logo=tailwind-css"/> <img src="https://img.shields.io/badge/React-000.svg?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Leaflet&color=000000&logo=Leaflet&logoColor=199900&label=" alt='leaflet'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=000000&logo=Angular&logoColor=DD0031&label=" alt='Angular'> <img src='https://img.shields.io/static/v1?style=for-the-badge&message=React Native&color=000000&logo=React&logoColor=61DAFB&label=' alt='react native'/> <img src='https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=FFFFFF&color=000000' alt='expo'/>
+ <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=E34F26&label=" alt='html'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=000000&logo=CSS3&logoColor=1572B6&label=" alt='css'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=000000&logo=Bootstrap&logoColor=7952B3&label=" alt='bootstrap'/> <img src="https://img.shields.io/badge/Tailwind_CSS-000.svg?style=for-the-badge&logo=tailwind-css"/> <img src="https://img.shields.io/badge/React-000.svg?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=" alt="next"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=000000&logo=Angular&logoColor=DD0031&label=" alt='Angular'> <img src='https://img.shields.io/static/v1?style=for-the-badge&message=React Native&color=000000&logo=React&logoColor=61DAFB&label=' alt='react native'/> <img src='https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=FFFFFF&color=000000' alt='expo'/>
  
  <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=000000&logo=Vite&logoColor=646CFF&label=' alt='vite'/>
 
  
 
- <img src="https://img.shields.io/badge/Node.js-000.svg?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/Django-000.svg?style=for-the-badge&logo=django&logoColor=29a071"/> <img src="https://img.shields.io/badge/flask-000.svg?style=for-the-badge&amp;logo=flask" alt="Flask"> <img src="https://img.shields.io/badge/Spring-000.svg?style=for-the-badge&logo=spring"/>
+ <img src="https://img.shields.io/badge/Node.js-000.svg?style=for-the-badge&logo=node.js" alt="node js"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=000000&logo=NestJS&logoColor=E0234E&label=" alt="nest"/> <img src="https://img.shields.io/badge/Spring-000.svg?style=for-the-badge&logo=spring" alt="spring"/> <img src="https://img.shields.io/badge/Django-000.svg?style=for-the-badge&logo=django&logoColor=29a071" alt="django"/>  <img src="https://img.shields.io/badge/flask-000.svg?style=for-the-badge&amp;logo=flask" alt="Flask">  
  
  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=000000&logo=Selenium&logoColor=43B02A&label=" alt='selenium'/>
  
  <img src="https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=mysql"/>
  
- <img src="https://img.shields.io/badge/rest-000.svg?style=for-the-badge&logo=rest&logoColor=ed8b00" alt="REST"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=000000&logo=GraphQL&logoColor=E10098&label=" alt='GraphQL'/>
+ <img src="https://img.shields.io/badge/rest-000.svg?style=for-the-badge&logo=rest&logoColor=ed8b00" alt="REST"/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=000000&logo=GraphQL&logoColor=E10098&label=" alt='GraphQL'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=" alt='socket.io'/> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WebRTC&color=000000&logo=WebRTC&logoColor=FFFFFF&label=" alt='WebRTC'/>
  
 <h4>Tools </h4>
  
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouahlineomaima&layout=compact&theme=algolia" alt="ouahbi13" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouahlineomaima&layout=compact&theme=algolia" alt="omaimaouahline" /></a> </p>
 
   
 ## 🔥 Streak Stats
