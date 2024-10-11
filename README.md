@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omaima OUAHLINE</h1>
 
-<h3 align="center"> A fsoftware engineer that loves challenges </h3>
+<h3 align="center"> A software engineer that loves challenges </h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Mobile+Developer;Competitive+Programming+Passionate%20&center=true&width=500&height=50"></a>
 </p>
